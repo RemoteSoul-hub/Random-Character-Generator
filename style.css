@@ -52,8 +52,7 @@ Variables
   padding: 0;
 }
 body {
-  /* font-family: "Farro"; */
-  font-family: var(--ff-secondary);
+  font-family: "Farro";
   background: var(--clr-grey-10);
   color: var(--clr-grey-1);
   line-height: 1.5;
