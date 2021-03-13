@@ -36,7 +36,7 @@ Variables
   --clr-green-dark: hsl(125, 67%, 44%);
   --clr-green-light: hsl(125, 71%, 66%);
   --clr-black: #222;
-  --ff-primary: "Roboto", sans-serif;
+  --ff-primary: "Farro", sans-serif;
   --ff-secondary: "Open Sans", sans-serif;
   --transition: all 0.3s linear;
   --spacing: 0.1rem;
@@ -65,9 +65,30 @@ h1 {
   margin-bottom: 0.75rem;
   font-size: 3rem;
 }
+h2 {
+  letter-spacing: var(--spacing);
+  text-transform: capitalize;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+  font-size: 2rem;
+}
 p {
   margin-bottom: 1.25rem;
   color: var(--clr-grey-5);
+}
+button {
+  padding: 20px;
+  background-color: rgb(235, 143, 100);
+  border: 2px solid red;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+}
+
+button :hover {
+  opacity: 0.5;
+  background-color: rgba(194, 106, 47, 0.5);
 }
 .title {
   text-align: center;
@@ -87,4 +108,21 @@ p {
   box-shadow: var(--light-shadow);
   transition: var(--transition);
   text-align: center;
+  width: 50%;
+  margin-left: 25%;
+}
+
+.pf-grid {
+  display: grid;
+  place-items: center;
+  grid-template-columns: auto;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: row;
+}
+
+#desc {
+  padding: 10px;
 }
