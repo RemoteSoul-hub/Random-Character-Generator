@@ -77,13 +77,15 @@ p {
   color: var(--clr-grey-5);
 }
 button {
-  padding: 20px;
+  padding: 10px;
   background-color: rgb(235, 143, 100);
   border: 2px solid red;
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
   border-radius: 20px;
   color: #ffffff;
+  transition: var(--transition);
+  cursor: pointer;
 }
 
 button :hover {
@@ -125,4 +127,24 @@ button :hover {
 
 #desc {
   padding: 10px;
+}
+
+.random-btn {
+  margin-top: 2rem;
+  background: rgb(247, 193, 158);
+  color: black;
+  padding: 0.4rem 0.6rem;
+  text-transform: capitalize;
+  border-radius: var(--radius);
+  transition: var(--transition);
+  border-color: rgb(194, 106, 47);
+  cursor: pointer;
+}
+.random-btn:hover {
+  background: #fff;
+  color: var(--clr-primary-1);
+}
+
+#char {
+  border-radius: 50%;
 }
