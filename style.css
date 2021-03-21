@@ -109,6 +109,7 @@ button :hover {
 }
 
 .profile {
+  display: grid;
   background-color: white;
   padding: 1.5rem 2rem;
   box-shadow: var(--light-shadow);
@@ -116,20 +117,18 @@ button :hover {
   text-align: center;
   width: 50%;
   margin-left: 25%;
-}
-
-.pf-grid {
-  display: grid;
   place-items: center;
   grid-template-columns: auto;
 }
 
 .content-container {
+  padding: 20px;
   display: flex;
   flex-direction: row;
 }
 
 #desc {
+  display: grid;
   padding: 20px;
   align-items: center;
 }
@@ -151,10 +150,14 @@ button :hover {
 }
 
 #char {
-  max-width: 25%;
-  position: relative;
+  width: 283px;
+  height: 369px;
+  object-fit: cover;
+  margin-right: 10em;
 }
 
-
-/***** 
-*/
+progress {
+  background-color: orange;
+  border-radius: 2px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+}

@@ -6,7 +6,7 @@ const charlist = [
       img:
         "img/gogetablue.png",
       text: 
-      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Power</h4><progress value="80" max="100"></progress><h4>Power</h4><progress value="80" max="100"></progress><h4>Power</h4><progress value="80" max="100"></progress><h4>Power</h4><progress value="80" max="100"></progress>'),
+      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="80" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="80" max="100"></progress>'),
     },
       {
       id: 2,
