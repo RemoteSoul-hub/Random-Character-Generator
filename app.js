@@ -14,7 +14,7 @@ const charlist = [
       img:
       "img/vegetass.png",
       text:
-      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="40" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
+      ('<h4>Power</h4><progress value="60" max="100"></progress><h4>Speed</h4><progress value="60" max="100"></progress><h4>Reach</h4><progress value="40" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="80" max="100"></progress>'),
     },
     {
       id: 3,
@@ -22,7 +22,7 @@ const charlist = [
       img:
       "img/piccolo.png",
       text:
-      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="40" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
+      ('<h4>Power</h4><progress value="60" max="100"></progress><h4>Speed</h4><progress value="40" max="100"></progress><h4>Reach</h4><progress value="80" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
     {
       id: 4,
@@ -30,7 +30,7 @@ const charlist = [
       img:
       "img/frieza.png",
       text:
-      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="40" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
+      ('<h4>Power</h4><progress value="60" max="100"></progress><h4>Speed</h4><progress value="60" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="80" max="100"></progress>'),
     },
     {
       id: 5,
@@ -38,7 +38,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“At last... I can finally test the power of my Perfect Form.”",
+      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="60" max="100"></progress><h4>Reach</h4><progress value="80" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
     {
       id: 6,
@@ -46,7 +46,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“The time has come to fight. Even before I meet Goku.”",
+      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="20" max="100"></progress><h4>Reach</h4><progress value="80" max="100"></progress><h4>Technique</h4><progress value="40" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
     {
       id: 7,
@@ -54,7 +54,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“Show some respect for nature.”",
+      ('<h4>Power</h4><progress value="60" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="40" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
     {
       id: 8,
@@ -62,7 +62,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“A smart choice, as always.”",
+      ('<h4>Power</h4><progress value="60" max="100"></progress><h4>Speed</h4><progress value="60" max="100"></progress><h4>Reach</h4><progress value="40" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
     {
       id: 9,
@@ -70,7 +70,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“My appetite...is insatiable!”",
+      ('<h4>Power</h4><progress value="40" max="100"></progress><h4>Speed</h4><progress value="60" max="100"></progress><h4>Reach</h4><progress value="80" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="40" max="100"></progress>'),
     },
     {
       id: 10,
@@ -78,7 +78,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“It's up to me... I'm... I'm gonna change the future!”",
+      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="40" max="100"></progress><h4>Technique</h4><progress value="20" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
     {
       id: 11,
@@ -86,7 +86,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“Before creation comes destruction.”",
+      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="100" max="100"></progress><h4>Energy</h4><progress value="100" max="100"></progress>'),
     },
     {
       id: 12,
@@ -94,7 +94,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“A monster, you say? No, I am a demon!”",
+      ('<h4>Power</h4><progress value="100" max="100"></progress><h4>Speed</h4><progress value="20" max="100"></progress><h4>Reach</h4><progress value="100" max="100"></progress><h4>Technique</h4><progress value="40" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
     {
       id: 13,
@@ -102,7 +102,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "No speech",
+      ('<h4>Power</h4><progress value="100" max="100"></progress><h4>Speed</h4><progress value="20" max="100"></progress><h4>Reach</h4><progress value="100" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="100" max="100"></progress>'),
     },
     {
       id: 14,
@@ -110,7 +110,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“Captain Ginyu, of the Ginyu Force, has arrived!”",
+      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="40" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="40" max="100"></progress>'),
     },
     {
       id: 15,
@@ -118,7 +118,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“I'm not short-sighted like my brother. I will be sure to exterminate every last one of you!”",
+      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="60" max="100"></progress><h4>Reach</h4><progress value="80" max="100"></progress><h4>Technique</h4><progress value="40" max="100"></progress><h4>Energy</h4><progress value="40" max="100"></progress>'),
     },
     {
       id: 16,
@@ -126,7 +126,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“I wonder if you have what it takes to fight me...”",
+      ('<h4>Power</h4><progress value="60" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="40" max="100"></progress>'),
     },
     {
       id: 17,
@@ -134,7 +134,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“Please... I... I don't want to fight... I don't want to kill... no matter how evil you are.”",
+      ('<h4>Power</h4><progress value="100" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="20" max="100"></progress><h4>Technique</h4><progress value="40" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
     {
       id: 18,
@@ -142,7 +142,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“Hi! I'm Goku!”",
+      ('<h4>Power</h4><progress value="40" max="100"></progress><h4>Speed</h4><progress value="60" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
     {
       id: 19,
@@ -150,7 +150,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“I'm Goku, Son Goku!”",
+      ('<h4>Power</h4><progress value="60" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
     {
       id: 20,
@@ -158,7 +158,7 @@ const charlist = [
       img:
       "img/gogetablue.png",
       text:
-        "“This is what it looks like to go beyond Super Saiyan God!”",
+      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="100" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="40" max="100"></progress>'),
     },
   ];
 
