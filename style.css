@@ -52,8 +52,10 @@ Variables
   padding: 0;
 }
 body {
+  background: url(img/background.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
   font-family: "Farro";
-  background: var(--clr-grey-10);
   color: var(--clr-grey-1);
   line-height: 1.5;
   font-size: 0.875rem;
@@ -64,6 +66,7 @@ h1 {
   line-height: 1.25;
   margin-bottom: 0.75rem;
   font-size: 3rem;
+  color: white;
 }
 h2 {
   letter-spacing: var(--spacing);
@@ -71,6 +74,12 @@ h2 {
   line-height: 1.25;
   margin-bottom: 0.75rem;
   font-size: 2rem;
+  color: white;
+}
+h4 {
+  letter-spacing: var(--spacing);
+  font-size: 1.4rem;
+  color: white;
 }
 p {
   margin-bottom: 1.25rem;
@@ -94,11 +103,14 @@ button {
 
 button :hover {
   opacity: 0.5;
-  background-color: rgba(194, 106, 47, 0.5);
+  background-color: rgba(194, 106, 47, 0.9);
 }
 .title {
   text-align: center;
   margin-bottom: 4rem;
+}
+#name {
+  background-color: rgba(194, 106, 47, 0.7);
 }
 .underline {
   height: 0.25rem;
@@ -107,22 +119,32 @@ button :hover {
   margin-left: auto;
   margin-right: auto;
 }
-
+article {
+  z-index: 999;
+}
+.radar {
+  position: absolute;
+  z-index: -1;
+  height: 75%;
+  left: 32%;
+  bottom: 10%;
+  opacity: 0.8;
+}
 .profile {
   display: grid;
-  background-color: white;
   padding: 1.5rem 2rem;
   box-shadow: var(--light-shadow);
   transition: var(--transition);
   text-align: center;
   width: 50%;
-  margin-left: 25%;
+  margin-left: 10%;
   place-items: center;
   grid-template-columns: auto;
+  z-index: 99;
 }
 
 .content-container {
-  padding: 20px;
+  padding: 10px;
   display: flex;
   flex-direction: row;
 }
@@ -154,10 +176,11 @@ button :hover {
   height: 369px;
   object-fit: cover;
   margin-right: 10em;
+  border: 5px solid rgb(194, 106, 47);
 }
 
 progress {
-  background-color: orange;
+  /* background-color: orange; */
   border-radius: 2px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
 }

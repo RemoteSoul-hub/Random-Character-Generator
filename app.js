@@ -4,33 +4,33 @@ const charlist = [
       id: 1,
       name: "Goku (Super Saiyan)",
       img:
-        "img/gogetablue.png",
+        "img/gokuss.png",
       text: 
-      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="80" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="80" max="100"></progress>'),
+      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="40" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
       {
       id: 2,
       name: "Vegeta (Super Saiyan)",
       img:
-      "img/gogetablue.png",
+      "img/vegetass.png",
       text:
-        "“I'll beat anyone, no matter how strong they are!”",
+      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="40" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
     {
       id: 3,
       name: "Piccolo",
       img:
-      "img/gogetablue.png",
+      "img/piccolo.png",
       text:
-        "“I'm neither Kami nor Piccolo. I'm simply a Namekian who has forgotten his own name.”",
+      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="40" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
     {
       id: 4,
       name: "Frieza",
       img:
-      "img/gogetablue.png",
+      "img/frieza.png",
       text:
-        "“I made you a promise, remember? I said I'd make you wish for death.”",
+      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="40" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
     {
       id: 5,
