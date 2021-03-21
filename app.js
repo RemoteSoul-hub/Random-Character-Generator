@@ -6,25 +6,7 @@ const charlist = [
       img:
         "img/gogetablue.png",
       text: 
-      "“I am a warrior, pure of heart, awakened by rage. I am the legendary Super Saiyan, Goku!” <div class="container">
-      <div class="row">
-          <div class="col-md-6">
-              <h3 class="progress-title">HTML5</h3>
-              <div class="progress-outer">
-                  <div class="progress">
-                      <div class="progress-bar progress-bar-striped progress-bar-danger" style="width:50%;"></div>
-                      <div class="progress-value"><span>3</span>%</div>
-                  </div>
-              </div>
-              <h3 class="progress-title">CSS3</h3>
-              <div class="progress-outer">
-                  <div class="progress">
-                      <div class="progress-bar progress-bar-striped progress-bar-info" style="width:75%;"></div>
-                      <div class="progress-value"><span>4</span>%</div>
-                  </div>
-              </div>
-          </div>
-      </div>"
+      ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Power</h4><progress value="80" max="100"></progress><h4>Power</h4><progress value="80" max="100"></progress><h4>Power</h4><progress value="80" max="100"></progress><h4>Power</h4><progress value="80" max="100"></progress>'),
     },
       {
       id: 2,
@@ -191,7 +173,7 @@ const charlist = [
   const randomBtn = document.querySelector('.random-btn');
 
   // set starting item 
-  let currentItem = 1;
+  let currentItem = 0;
 
   // Load initial item
   window.addEventListener('DOMContentLoaded', function() {
