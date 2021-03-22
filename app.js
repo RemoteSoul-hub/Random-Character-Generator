@@ -36,7 +36,7 @@ const charlist = [
       id: 5,
       name: "Cell",
       img:
-      "img/gogetablue.png",
+      "img/cell.png",
       text:
       ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="60" max="100"></progress><h4>Reach</h4><progress value="80" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
@@ -44,7 +44,7 @@ const charlist = [
       id: 6,
       name: "Android 16",
       img:
-      "img/gogetablue.png",
+      "img/android16.png",
       text:
       ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="20" max="100"></progress><h4>Reach</h4><progress value="80" max="100"></progress><h4>Technique</h4><progress value="40" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
@@ -52,7 +52,7 @@ const charlist = [
       id: 7,
       name: "Android 17",
       img:
-      "img/gogetablue.png",
+      "img/a17.png",
       text:
       ('<h4>Power</h4><progress value="60" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="40" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
@@ -60,7 +60,7 @@ const charlist = [
       id: 8,
       name: "Android 18",
       img:
-      "img/gogetablue.png",
+      "img/a18.png",
       text:
       ('<h4>Power</h4><progress value="60" max="100"></progress><h4>Speed</h4><progress value="60" max="100"></progress><h4>Reach</h4><progress value="40" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
@@ -68,7 +68,7 @@ const charlist = [
       id: 9,
       name: "Android 21",
       img:
-      "img/gogetablue.png",
+      "img/a21.png",
       text:
       ('<h4>Power</h4><progress value="40" max="100"></progress><h4>Speed</h4><progress value="60" max="100"></progress><h4>Reach</h4><progress value="80" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="40" max="100"></progress>'),
     },
@@ -76,7 +76,7 @@ const charlist = [
       id: 10,
       name: "Bardock",
       img:
-      "img/gogetablue.png",
+      "img/bardock.png",
       text:
       ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="40" max="100"></progress><h4>Technique</h4><progress value="20" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
@@ -84,7 +84,7 @@ const charlist = [
       id: 11,
       name: "Beerus",
       img:
-      "img/gogetablue.png",
+      "img/beerus.png",
       text:
       ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="100" max="100"></progress><h4>Energy</h4><progress value="100" max="100"></progress>'),
     },
@@ -92,7 +92,7 @@ const charlist = [
       id: 12,
       name: "Broly",
       img:
-      "img/gogetablue.png",
+      "img/broly.png",
       text:
       ('<h4>Power</h4><progress value="100" max="100"></progress><h4>Speed</h4><progress value="20" max="100"></progress><h4>Reach</h4><progress value="100" max="100"></progress><h4>Technique</h4><progress value="40" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
@@ -100,7 +100,7 @@ const charlist = [
       id: 13,
       name: "Broly (DBS)",
       img:
-      "img/gogetablue.png",
+      "img/brolydbs.png",
       text:
       ('<h4>Power</h4><progress value="100" max="100"></progress><h4>Speed</h4><progress value="20" max="100"></progress><h4>Reach</h4><progress value="100" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="100" max="100"></progress>'),
     },
@@ -108,7 +108,7 @@ const charlist = [
       id: 14,
       name: "Captain Ginyu",
       img:
-      "img/gogetablue.png",
+      "img/ginyu.png",
       text:
       ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="40" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="40" max="100"></progress>'),
     },
@@ -116,7 +116,7 @@ const charlist = [
       id: 15,
       name: "Cooler",
       img:
-      "img/gogetablue.png",
+      "img/cooler.png",
       text:
       ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="60" max="100"></progress><h4>Reach</h4><progress value="80" max="100"></progress><h4>Technique</h4><progress value="40" max="100"></progress><h4>Energy</h4><progress value="40" max="100"></progress>'),
     },
@@ -124,7 +124,7 @@ const charlist = [
       id: 16,
       name: "Gohan (Adult)",
       img:
-      "img/gogetablue.png",
+      "img/gohanadult.png",
       text:
       ('<h4>Power</h4><progress value="60" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="40" max="100"></progress>'),
     },
@@ -132,7 +132,7 @@ const charlist = [
       id: 17,
       name: "Gohan (Teen)",
       img:
-      "img/gogetablue.png",
+      "img/gohanteen.png",
       text:
       ('<h4>Power</h4><progress value="100" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="20" max="100"></progress><h4>Technique</h4><progress value="40" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
@@ -140,7 +140,7 @@ const charlist = [
       id: 18,
       name: "Goku",
       img:
-      "img/gogetablue.png",
+      "img/goku.png",
       text:
       ('<h4>Power</h4><progress value="40" max="100"></progress><h4>Speed</h4><progress value="60" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="60" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
@@ -148,7 +148,7 @@ const charlist = [
       id: 19,
       name: "Goku (GT)",
       img:
-      "img/gogetablue.png",
+      "img/gokugt.png",
       text:
       ('<h4>Power</h4><progress value="60" max="100"></progress><h4>Speed</h4><progress value="80" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="60" max="100"></progress>'),
     },
@@ -156,7 +156,7 @@ const charlist = [
       id: 20,
       name: "Goku (SSGSS)",
       img:
-      "img/gogetablue.png",
+      "img/gokublue.png",
       text:
       ('<h4>Power</h4><progress value="80" max="100"></progress><h4>Speed</h4><progress value="100" max="100"></progress><h4>Reach</h4><progress value="60" max="100"></progress><h4>Technique</h4><progress value="80" max="100"></progress><h4>Energy</h4><progress value="40" max="100"></progress>'),
     },
